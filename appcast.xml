@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DockDoor</title>
+        <item>
+            <title>1.42.4</title>
+            <pubDate>Sun, 08 Nov 2026 15:54:08 -0800</pubDate>
+            <sparkle:releaseNotesLink>https://dockdoor.net/CHANGELOG.html</sparkle:releaseNotesLink>
+            <sparkle:version>1.42.4</sparkle:version>
+            <sparkle:shortVersionString>1.42.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ejbills/DockDoor/releases/download/1.42.4/DockDoor.dmg" length="22828534" type="application/octet-stream" sparkle:edSignature="Yky0hz7pZ6/sUYrng73AEAfnWDOkpMoMiOhDbxMldBN6/fjoqHG4ngDKASFaAmyOvC7qjUAffQUC3bufIpGTDA==" />
+        </item>
+    </channel>
+</rss>
